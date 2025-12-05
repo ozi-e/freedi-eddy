@@ -6,6 +6,7 @@ I will probably add additional configurations later as I'm working on adding the
 ## How to use:
 ### 1 - Print the bracket
 I used ASA filament, it prints well without supports, I suggest adding a brim and also printing the first layer at 15mm/s
+Bracket requires 2x M3 inserts
 
 ### 2 - Take off the toolhead front and back covers
 Self explanatory
